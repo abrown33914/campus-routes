@@ -1,0 +1,288 @@
+"Ben Hill Griffin Hall","Howard Hall","N",27.96,3.5
+"Ben Hill Griffin Hall","Reed Hall","SE",31.23,1.4
+"Ben Hill Griffin Hall","Merwin Hall","W",43.33,1.4
+"Reed Hall","Ben Hill Griffin Hall","NW",31.23,1.4
+"Reed Hall","Whitaker Hall","W",33.74,1.4
+"Reed Hall","Library","E",70.23,3.5
+"Whitaker Hall","Reed Hall","E",33.74,1.4
+"Whitaker Hall","Merwin Hall","NW",43.84,1.4
+"Whitaker Hall","Seidler Hall","W",57.95,1.4
+"Whitaker Hall","Counseling Center","SW",61.12,3.5
+"Whitaker Hall","Observatory","S",32.92,1.4
+"Whitaker Hall","Music Mod","S",162.13,3.5
+"Merwin Hall","Ben Hill Griffin Hall","E",43.33,1.4
+"Merwin Hall","Garage 3","NW",99.96,3.5
+"Merwin Hall","Whitaker Hall","SE",43.84,1.4
+"Merwin Hall","Seidler Hall","SW",54.33,1.4
+"Merwin Hall","Edwards Hall","W",56.27,1.4
+"Seidler Hall","Whitaker Hall","E",57.95,1.4
+"Seidler Hall","Merwin Hall","NE",54.33,1.4
+"Seidler Hall","Edwards Hall","NW",50.56,1.4
+"Seidler Hall","Marieb Hall","NW",80.97,1.4
+"Seidler Hall","Holmes Hall","W",29.56,1.4
+"Seidler Hall","Counseling Center","SE",41.43,3.5
+"Holmes Hall","Seidler Hall","E",29.56,1.4
+"Holmes Hall","Edwards Hall","N",51.77,1.4
+"Holmes Hall","Marieb Hall","NW",61.97,1.4
+"Holmes Hall","Lutgert Hall","W",97.48,1.4
+"Holmes Hall","Lucas Hall","S",62.85,3.5
+"Holmes Hall","Counseling Center","SE",54.96,3.5
+"Holmes Hall","Parking Lot 1","SW",105.63,3.5
+"Edwards Hall","Merwin Hall","E",56.27,1.4
+"Edwards Hall","WGCU","NW",83.64,3.5
+"Edwards Hall","Seidler Hall","SE",50.56,1.4
+"Edwards Hall","Holmes Hall","S",51.77,1.4
+"Edwards Hall","Marieb Hall","W",48.25,1.4
+"Marieb Hall","Edwards Hall","E",48.25,1.4
+"Marieb Hall","Seidler Hall","SE",80.97,1.4
+"Marieb Hall","Holmes Hall","SE",61.97,1.4
+"Marieb Hall","Lutgert Hall","SW",57.33,1.4
+"Lutgert Hall","Holmes Hall","E",97.48,1.4
+"Lutgert Hall","Marieb Hall","NE",57.33,1.4
+"Lutgert Hall","Garage 4","N",43.77,3.5
+"Lutgert Hall","Lucas Hall","SE",133.08,3.5
+"Lutgert Hall","Family Resource Center","SE",113.03,3.5
+"Lutgert Hall","Parking Lot 1","S",77.61,3.5
+"Lucas Hall","Holmes Hall","N",62.85,3.5
+"Lucas Hall","Lutgert Hall","NW",133.08,3.5
+"Lucas Hall","Counseling Center","NE",48.37,3.5
+"Lucas Hall","Family Resource Center","SW",55.8,3.5
+"Lucas Hall","Parking Lot 1","W",98.12,3.5
+"Counseling Center","Whitaker Hall","NE",61.12,3.5
+"Counseling Center","Seidler Hall","NW",41.43,3.5
+"Counseling Center","Holmes Hall","NW",54.96,3.5
+"Counseling Center","Lucas Hall","SW",48.37,3.5
+"Counseling Center","Parking Lot 1","W",137.16,3.5
+"Library","Reed Hall","W",70.23,3.5
+"Library","Arts Complex","S",75.95,3.5
+"Library","Veteran Pavilion","N",38.72,3.5
+"Library","Career Services","NW",70.13,3.5
+"Water School","Garage 1","NW",31.92,3.5
+"Water School","Veteran Pavilion","SW",83.78,3.5
+"Water School","Parking Lot 8","E",59.38,3.5
+"Hospitality","Garage 1","E",42.11,1.4
+"Hospitality","Student Union","W",40.35,1.4
+"Hospitality","Parking Lot 6","W",41.68,1.4
+"Student Union","Hospitality","E",40.35,1.4
+"Student Union","FGCU LAKE PKWY W","W",48.18,3.5
+"Student Union","Parking Lot 6","N",13.9,1.4
+"Student Union","McTarnaghan Hall","SW",36.09,1.4
+"Student Union","Career Services","S",39.43,1.4
+"Student Union","Parking Lot 5","W",102.77,3.5
+"McTarnaghan Hall","Student Union","NE",36.09,1.4
+"McTarnaghan Hall","FGCU LAKE PKWY W","N",39.56,3.5
+"McTarnaghan Hall","Howard Hall","W",22.32,1.4
+"McTarnaghan Hall","Career Services","E",41.19,1.4
+"McTarnaghan Hall","Parking Lot 5","NW",79.89,3.5
+"Howard Hall","McTarnaghan Hall","E",22.32,1.4
+"Howard Hall","Career Services","E",57.42,3.5
+"Howard Hall","FGCU LAKE PKWY W","N",46.51,3.5
+"Howard Hall","Ben Hill Griffin Hall","S",27.96,3.5
+"Howard Hall","Parking Lot 5","NW",68.55,3.5
+"Career Services","Library","SE",70.13,3.5
+"Career Services","Student Union","N",39.43,1.4
+"Career Services","McTarnaghan Hall","W",41.19,1.4
+"Career Services","Howard Hall","W",57.42,3.5
+"Career Services","Veteran Pavilion","SE",35.22,3.5
+"WGCU","Edwards Hall","SE",83.64,3.5
+"WGCU","Parking Lot 3","W",19.73,3.5
+"Observatory","Whitaker Hall","N",32.92,1.4
+"Family Resource Center","Lutgert Hall","NW",113.03,3.5
+"Family Resource Center","Lucas Hall","NE",55.8,3.5
+"Family Resource Center","Campus Support","SE",62.29,3.5
+"Family Resource Center","Parking Lot 1","NW",50.8,3.5
+"Welcome Center","Parking Lot-WC","SE",43.31,3.5
+"Welcome Center","FGCU BLVD","N",57.81,3.5
+"Information","FGCU BLVD","NE",30.71,3.5
+"Kleist Health Ed.","Parking Lot-WC","N",61.72,3.5
+"Campus Support","Family Resource Center","NW",62.29,3.5
+"Campus Support","Music Mod","E",120.35,3.5
+"Campus Support","Grounds","SE",89.28,7
+"CHILL","Arts Complex","E",38.98,1.4
+"Garage 1","Water School","SE",31.92,3.5
+"Garage 1","Recreation Outdoor Complex","N",97.21,3.5
+"Garage 1","Hospitality","W",42.11,1.4
+"Garage 1","Parking Lot 8","E",81.66,7
+"Arts Complex","CHILL","W",38.98,1.4
+"Arts Complex","Music Building","E",55.7,1.4
+"Arts Complex","Library","N",75.95,3.5
+"Arts Complex","Music Mod","SW",92.33,3.5
+"Music Building","Parking Lot 7","SW",96.25,1.4
+"Music Building","Arts Complex","W",55.7,1.4
+"Music Building","SOVI","E",123.7,1.4
+"Student Health","Food Pantry","NE",21.69,1.4
+"Student Health","Music Mod","NW",28.76,1.4
+"Student Health","Mod Village","SW",58.96,1.4
+"Student Health","Garage 2","SW",44.83,1.4
+"Food Pantry","Music Mod","W",29.81,3.5
+"Food Pantry","Student Health","SW",21.69,1.4
+"Food Pantry","Parking Lot 7","E",41.05,3.5
+"Music Mod","Whitaker Hall","N",162.13,3.5
+"Music Mod","Campus Support","W",120.35,3.5
+"Music Mod","Arts Complex","NE",92.33,3.5
+"Music Mod","Student Health","SE",28.76,1.4
+"Music Mod","Food Pantry","E",29.81,3.5
+"Mod Village","Student Health","NE",58.96,1.4
+"Mod Village","Garage 2","E",29.13,1.4
+"Grounds","Campus Support","NW",89.28,7
+"Grounds","Garage 2","E",82.15,3.5
+"Marketing","Garage 2","W",19.4,1.4
+"Garage 2","Student Health","NE",44.83,1.4
+"Garage 2","Mod Village","W",29.13,1.4
+"Garage 2","Grounds","W",82.15,3.5
+"Garage 2","Marketing","E",19.4,1.4
+"Garage 2","Parking Lot 7","NE",78.52,1.4
+"Garage 2","Bridge Loop RD","E",87.63,7
+"Gym","SOVI Parking A","NE",128.35,3.5
+"Gym","SOVI Bus Stop","NW",59.48,3.5
+"SOVI","Music Building","W",123.7,1.4
+"SOVI","Veteran Pavilion","NW",191.01,1.4
+"SOVI","Biscayne Hall","S",67.13,1.4
+"SOVI","Everglades Hall","SE",46.73,1.4
+"SOVI","Palmetto Hall","SW",49.68,1.4
+"SOVI","Eagle Hall","NE",35.13,1.4
+"SOVI","SOVI Mod Village","N",48.77,1.4
+"Garage B","Rec Field 2","NW",59.87,3.5
+"Garage B","SOVI Parking A","SW",91.96,7
+"Garage B","Everglades Hall","W",102.52,3.5
+"Garage B","Osprey Hall","W",68.82,3.5
+"Biscayne Hall","SOVI","N",67.13,1.4
+"Biscayne Hall","SOVI Parking A","E",70.98,3.5
+"Biscayne Hall","Everglades Hall","NE",43.98,1.4
+"Biscayne Hall","Palmetto Hall","NW",64.35,1.4
+"Biscayne Hall","SOVI Bus Stop","SW",65.2,3.5
+"South Energy","SOVI Parking A","SW",52.64,3.5
+"SOVI Parking A","Garage B","NE",91.96,7
+"SOVI Parking A","South Energy","NE",52.64,3.5
+"SOVI Parking A","Gym","SW",128.35,3.5
+"SOVI Parking A","Biscayne Hall","W",70.98,3.5
+"SOVI Parking A","Everglades Hall","NW",70.71,3.5
+"SOVI Parking A","Osprey Hall","N",94.04,3.5
+"Everglades Hall","SOVI","NW",46.73,1.4
+"Everglades Hall","Garage B","E",102.52,3.5
+"Everglades Hall","SOVI Parking A","SE",70.71,3.5
+"Everglades Hall","Palmetto Hall","W",76.79,1.4
+"Everglades Hall","Osprey Hall","NE",52.47,1.4
+"Everglades Hall","Biscayne Hall","SW",43.98,1.4
+"Palmetto Hall","SOVI","NE",49.68,1.4
+"Palmetto Hall","South Village BLVD","S",92.55,3.5
+"Palmetto Hall","Biscayne Hall","SE",64.35,1.4
+"Palmetto Hall","Everglades Hall","E",76.79,1.4
+"Osprey Hall","Garage B","E",68.82,3.5
+"Osprey Hall","SOVI Parking A","S",94.04,3.5
+"Osprey Hall","Rec Field 2","NE",33.31,1.4
+"Osprey Hall","Everglades Hall","SW",52.47,1.4
+"Osprey Hall","Eagle Hall","W",52.89,1.4
+"Eagle Hall","SOVI","SW",35.13,1.4
+"Eagle Hall","Osprey Hall","E",52.89,1.4
+"Eagle Hall","Rec Field 2","E",74.46,1.4
+"Eagle Hall","SOVI Mod Village","N",17.79,1.4
+"SOVI Mod 2","SOVI Mod 1","NW",52.03,1.4
+"SOVI Mod 2","SOVI Mod Village","SW",72.89,1.4
+"SOVI Mod 1","SOVI Mod Village","SW",83.46,1.4
+"SOVI Mod 1","SOVI Mod 2","SE",52.03,1.4
+"Parking Lot 7","Food Pantry","W",41.05,3.5
+"Parking Lot 7","Garage 2","SW",78.52,1.4
+"Parking Lot 7","Music Building","NE",96.25,1.4
+"Parking Lot 7","Bridge Loop RD","SE",21.39,7
+"Garage 4","Lutgert Hall","S",43.77,3.5
+"Garage 4","FGCU BLVD S","S",91.45,7
+"Garage 4","Parking Lot 3","NE",62.86,3.5
+"Bridge Loop RD","Garage 2","W",87.63,7
+"Bridge Loop RD","Parking Lot 7","NW",21.39,7
+"Bridge Loop RD","South Village BLVD","E",79.62,7
+"Bridge Loop RD","Rec Field 1","NE",275.66,7
+"South Village BLVD","Bridge Loop RD","W",79.62,7
+"South Village BLVD","SOVI Bus Stop","NE",40.71,7
+"South Village BLVD","Palmetto Hall","N",92.55,3.5
+"South Village BLVD","Ben Hill Griffin PKWY - South Entrance","SW",140.01,7
+"FGCU BLVD S","Garage 4","N",91.45,7
+"FGCU BLVD S","FGCU BLVD","SW",52.42,7
+"FGCU BLVD S","Parking Lot 1","SE",38.71,7
+"FGCU BLVD","Welcome Center","S",57.81,3.5
+"FGCU BLVD","Ben Hill Griffin PKWY - Main Entrance","SW",153.12,7
+"FGCU BLVD","FGCU Solar Field","NW",98.42,3.5
+"FGCU BLVD","Information","SW",30.71,3.5
+"FGCU BLVD","FGCU BLVD S","NE",52.42,7
+"Parking Lot-WC","Kleist Health Ed.","S",61.72,3.5
+"Parking Lot-WC","Food Forest","S",40.56,3.5
+"Parking Lot-WC","Welcome Center","NW",43.31,3.5
+"Food Forest","Parking Lot-WC","N",40.56,3.5
+"Ben Hill Griffin PKWY - Main Entrance","FGCU BLVD","NE",153.12,7
+"Garage 3","Merwin Hall","SE",99.96,3.5
+"Garage 3","Parking Lot 3","W",68.83,7
+"Garage 3","Parking Lot 5","E",59.71,7
+"Parking Lot 3","WGCU","E",19.73,3.5
+"Parking Lot 3","Garage 4","SW",62.86,3.5
+"Parking Lot 3","Garage 3","E",68.83,7
+"Parking Lot 5","Student Union","E",102.77,3.5
+"Parking Lot 5","McTarnaghan Hall","SE",79.89,3.5
+"Parking Lot 5","Howard Hall","SE",68.55,3.5
+"Parking Lot 5","Garage 3","W",59.71,7
+"Parking Lot 5","FGCU LAKE PKWY W","E",56.34,7
+"FGCU LAKE PKWY W","Parking Lot 6","E",41.11,7
+"FGCU LAKE PKWY W","FGCU LAKE PKWY E","NW",75.01,7
+"FGCU LAKE PKWY W","Student Union","E",48.18,3.5
+"FGCU LAKE PKWY W","McTarnaghan Hall","S",39.56,3.5
+"FGCU LAKE PKWY W","Howard Hall","S",46.51,3.5
+"FGCU LAKE PKWY W","Parking Lot 5","W",56.34,7
+"Parking Lot 6","Hospitality","E",41.68,1.4
+"Parking Lot 6","Student Union","S",13.9,1.4
+"Parking Lot 6","FGCU LAKE PKWY W","W",41.11,7
+"Rec Field 2","SOVI Mod Village","W",78.26,1.4
+"Rec Field 2","Garage B","SE",59.87,3.5
+"Rec Field 2","Osprey Hall","SW",33.31,1.4
+"Rec Field 2","Eagle Hall","W",74.46,1.4
+"SOVI Mod Village","SOVI","S",48.77,1.4
+"SOVI Mod Village","Eagle Hall","S",17.79,1.4
+"SOVI Mod Village","SOVI Mod 2","NE",72.89,1.4
+"SOVI Mod Village","SOVI Mod 1","NE",83.46,1.4
+"SOVI Mod Village","Rec Field 2","E",78.26,1.4
+"Parking Lot 1","Holmes Hall","NE",105.63,3.5
+"Parking Lot 1","Lutgert Hall","N",77.61,3.5
+"Parking Lot 1","Lucas Hall","E",98.12,3.5
+"Parking Lot 1","Counseling Center","E",137.16,3.5
+"Parking Lot 1","Family Resource Center","SE",50.8,3.5
+"Parking Lot 1","FGCU BLVD S","NW",38.71,7
+"SOVI Bus Stop","Biscayne Hall","NE",65.2,3.5
+"SOVI Bus Stop","Gym","SE",59.48,3.5
+"SOVI Bus Stop","South Village BLVD","SW",40.71,7
+"Rec Field 1","Bridge Loop RD","SW",275.66,7
+"Rec Field 1","Parking Lot 8","NW",35.36,7
+"Veteran Pavilion","Water School","NE",83.78,3.5
+"Veteran Pavilion","Career Services","NW",35.22,3.5
+"Veteran Pavilion","Library","S",38.72,3.5
+"Veteran Pavilion","SOVI","SE",191.01,1.4
+"Parking Lot 8","Water School","W",59.38,3.5
+"Parking Lot 8","Garage 1","W",81.66,7
+"Parking Lot 8","Rec Field 1","SE",35.36,7
+"North Lake Village","Boardwalk","N",34.31,3.5
+"North Lake Village","Lakefront","E",125.78,3.5
+"North Lake Village","FGCU LAKE PKWY E","S",64.41,3.5
+"Boardwalk","Lakefront","E",117.83,3.5
+"Boardwalk","North Lake Village","S",34.31,3.5
+"Lakefront","Alico Arena","E",128.51,3.5
+"Lakefront","North Lake Village","W",125.78,3.5
+"Lakefront","Boardwalk","W",117.83,3.5
+"Lakefront","Recreation Outdoor Complex","SE",83.97,3.5
+"Alico Arena","Sports Complex","SE",114.46,3.5
+"Alico Arena","Lakefront","W",128.51,3.5
+"Alico Arena","Aquatics Center","S",81.49,3.5
+"Alico Arena","Recreation Outdoor Complex","SW",84.08,3.5
+"Sports Complex","Alico Arena","NW",114.46,3.5
+"Sports Complex","Aquatics Center","W",76.84,3.5
+"Aquatics Center","Alico Arena","N",81.49,3.5
+"Aquatics Center","Sports Complex","E",76.84,3.5
+"Aquatics Center","Recreation Outdoor Complex","W",96.81,7
+"FGCU LAKE PKWY E","North Lake Village","N",64.41,3.5
+"FGCU LAKE PKWY E","Recreation Outdoor Complex","E",198.16,7
+"FGCU LAKE PKWY E","FGCU LAKE PKWY W","SE",75.01,7
+"FGCU LAKE PKWY E","Ben Hill Griffin PKWY - North Entrance","W",296.94,7
+"Recreation Outdoor Complex","Lakefront","NW",83.97,3.5
+"Recreation Outdoor Complex","Alico Arena","NE",84.08,3.5
+"Recreation Outdoor Complex","Aquatics Center","E",96.81,7
+"Recreation Outdoor Complex","Garage 1","S",97.21,3.5
+"Recreation Outdoor Complex","FGCU LAKE PKWY E","W",198.16,7
+"Ben Hill Griffin PKWY - North Entrance","FGCU LAKE PKWY E","E",296.94,7
+"Ben Hill Griffin PKWY - South Entrance","South Village BLVD","NE",140.01,7
+"FGCU Solar Field","FGCU BLVD","SE",98.42,3.5

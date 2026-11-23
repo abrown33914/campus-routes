@@ -1,0 +1,1 @@
+# loader.py: reads the CSV, sorts and dedupes the names, looks up a name's index (R1, R2, R3)
